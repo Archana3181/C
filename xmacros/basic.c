@@ -1,3 +1,4 @@
+//Archana
 #include <stdio.h>
 
 // Defines four variables. 
